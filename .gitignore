@@ -1,0 +1,59 @@
+# Gradle files
+.gradle/
+build/
+*.apk
+*.aar
+*.jks
+*.keystore
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Android Studio IDE
+.idea/
+.classpath
+.project
+.settings/
+*.iml
+*.iws
+*.ipr
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Generated files
+gen/
+out/
+
+# Kotlin
+kotlin-build/
+.kotlin/
+
+# dependencies
+.gradle
+gradlew
+gradlew.bat
+gradle/
+
+# Signing files
+*.jks
+*.keystore
+
+# Backup files
+*.bak
+*.swp
+*~
+
+# IDE specific files
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Node modules (if using React Native later)
+node_modules/
+npm-debug.log
+
+# Misc
+*.log
+.gradle.properties
