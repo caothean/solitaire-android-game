@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.SolitaireGame" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/button_blue</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="android:statusBarColor">@color/game_background</item>
+        <item name="android:navigationBarColor">@color/control_panel</item>
+    </style>
+</resources>
